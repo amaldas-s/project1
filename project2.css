@@ -1,0 +1,101 @@
+*{
+    margin: 0%;
+}
+.sec1{
+    /* position: fixed; */
+    margin-top: 15px;
+}
+.inbox1{
+    background-color: white;
+    height: 100px;
+    /* margin-top: 15px; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.inbox2{
+    height: 500px;
+    text-align: right;
+}
+.sec2{
+    background-color: rgb(66, 160, 197);
+
+}
+.inbox3{
+    margin: 55px;
+    color: white;
+    text-align: left;
+}
+.sec3{
+    background-color: white;
+    margin-top: 15px;
+    padding-bottom: 25px;
+}
+.inbox4{
+    background-color: white;
+    height: 300px;
+    text-align: center;
+}
+.link{
+    text-align:center;
+    font-size: x-large;
+}
+.sec4{
+    background-color: rgb(66, 160, 197);
+    /* height: 400px; */
+    /* margin-top: 15px; */
+}
+.inbox5{
+    background-color: rgb(66, 160, 197);
+    height: 400px;
+    text-align: center;
+    float: left;
+    margin-top: 15px;
+    color: white;
+}
+.inbox6{
+    background-color: rgb(66, 160, 197);
+    height: 400px;
+    /* width: 33.33%; */
+    text-align: center;
+    float: left;
+    font-size: larger;
+    color: white;
+}
+.inbox7{
+    background-color: rgb(66, 160, 197);
+    height: 400px;
+    /* width: 33.33%; */
+    text-align: center;
+    float: left;
+    margin-top: 15px;
+    color: white;
+}
+.pic{
+    float: left;
+}
+.sec5{
+    background-color: rgb(51, 45, 45);
+    padding-bottom: 25px;
+}
+
+.inbox8{
+    /* background-color: white; */
+    /* height: 300px; */
+    /* margin-top: 15px; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+.inbox9{
+    text-align: center;
+}
+.imbox11{
+    margin-top: 15px;
+}
+.inbox21{
+    margin-top: 15px;
+    text-align:center;
+    height: 150px;
+}
+.inbox16{
+    margin-top: 15px;
+}
